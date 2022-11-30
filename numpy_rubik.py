@@ -8,6 +8,7 @@ import numpy as np
 class np_cube:
     
     def __init__(self):
+        # this is a change to test git cli
         self.cube_size=3
         self.color_key={
                         'front':(1 ,'green'),
